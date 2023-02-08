@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AH-Ratul
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
