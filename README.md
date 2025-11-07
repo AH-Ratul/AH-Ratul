@@ -24,13 +24,11 @@ Passionate Frontend Developer experienced in React JS and Next JS (SSR, SSG, CSR
 
 ---
 
-### 🔗 **Connect with me** 🔗
-
-| Platform | Engage Here |
-| :------- | :--- |
-| **LinkedIn** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='22'>](https://www.linkedin.com/in/azmol-hasan-ratul-909927308/) **Azmol Hasan Ratul** |
-| **Portfolio** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='22'>](https://ah-ratul.vercel.app/) **ah-ratul.vercel.app** |
-| **Facebook** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='22'>](https://www.facebook.com/ah.ratul.7) **ah.ratul.7** |
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/azmol-hasan-ratul-909927308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azmol-hasan-ratul-909927308/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/ah.ratul.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ah.ratul.7" height="30" width="40" /></a>
+</p>
 
 ---
 
