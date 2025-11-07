@@ -1,6 +1,7 @@
+![Frontend Developer](https://media.licdn.com/dms/image/v2/D4E16AQGc2zD9t8vOHQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715944518837?e=1764201600&v=beta&t=N9kQkgF56DHcuSnBmkwpfipQMx4ToKDhR88_j13r2tk)
+
 ## Md. Azmol Hasan Ratul
 #### Frontend Developer
-![Frontend Developer](https://media.licdn.com/dms/image/v2/D4E16AQGc2zD9t8vOHQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715944518837?e=1764201600&v=beta&t=N9kQkgF56DHcuSnBmkwpfipQMx4ToKDhR88_j13r2tk)
 
 Passionate Frontend Developer experienced in React JS and Next JS (SSR, SSG, CSR). I build responsive, performant, and user-friendly experiences by meticulously leveraging my strong foundation in modern web technologies.
 
