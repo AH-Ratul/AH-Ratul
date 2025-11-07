@@ -20,7 +20,7 @@ Passionate Frontend Developer experienced in React JS and Next JS (SSR, SSG, CSR
 **💻 Technical Expertise**
 
 - **Languages:** JavaScript, TypeScript
-- **Front End:** ReactJS, NextJS (with Next Auth), TailwindCSS, Redux Toolkit, React Query, React Hook Form
+- **Front End:** ReactJS, NextJS (with Next Auth), TailwindCSS, Redux Toolkit, RTK Query, React Query, React Hook Form, Firebase
 - **Back End:** NodeJs, ExpressJs, Mongoose, Prisma, Passport js
 - **Database:** MongoDB, PostgreSQL, MySQL, Redis
 - **Tools & Deployment:** Git, VS Code, Postman, Vercel
