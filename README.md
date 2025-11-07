@@ -13,7 +13,7 @@ As a **Passionate and Pragmatic Frontend Engineer**, I thrive on bringing ideas 
 | :----------------------- | :------------------------------------------------------------------------------------- |
 | **Frontend Frameworks** | **React JS** \| **Next JS** (SSR/SSG/CSR)                                              |
 | **State Management** | **Redux** \| **RTK Query** \| **React Query** |
-| **Styling & UI** | **TailwindCSS** \| **Bootstrap** | **Shadcn** |
+| **Styling & UI** | **TailwindCSS** \| **Bootstrap** \| **Shadcn** |
 | **Languages** | **JavaScript** \| **TypeScript** |
 | **Backend & Database** | **Node JS** \| Express JS \| **MongoDB** \| Mongoose \| PostgreSQL \| Prisma \| Redis \| Passport JS |
 | **Form Management** | **React Hook Form** |
