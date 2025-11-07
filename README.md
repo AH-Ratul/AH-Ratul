@@ -1,5 +1,5 @@
-# ✨ **Md. Azmol Hasan Ratul** ✨
-## 🚀 **Frontend Engineer**
+#  **Md. Azmol Hasan Ratul** 
+##  **Frontend Developer**
 
 ---
 
@@ -13,7 +13,7 @@ As a **Passionate and Pragmatic Frontend Engineer**, I thrive on bringing ideas 
 | :----------------------- | :------------------------------------------------------------------------------------- |
 | **Frontend Frameworks** | **React JS** \| **Next JS** (SSR/SSG/CSR)                                              |
 | **State Management** | **Redux** \| **RTK Query** \| **React Query** |
-| **Styling & UI** | **TailwindCSS** \| **Bootstrap** | **Shadcn**
+| **Styling & UI** | **TailwindCSS** \| **Bootstrap** | **Shadcn** |
 | **Languages** | **JavaScript** \| **TypeScript** |
 | **Backend & Database** | **Node JS** \| Express JS \| **MongoDB** \| Mongoose \| PostgreSQL \| Prisma \| Redis \| Passport JS |
 | **Form Management** | **React Hook Form** |
@@ -24,10 +24,10 @@ As a **Passionate and Pragmatic Frontend Engineer**, I thrive on bringing ideas 
 
 | Platform | Engage Here                                                                                                              |
 | :------- | :----------------------------------------------------------------------------------------------------------------------- |
-| **GitHub** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='22'>](https://github.com/AH-Ratul) **AH-Ratul** |
-| **LinkedIn** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='22'>](https://www.linkedin.com/in/azmol-hasan-ratul-909927308/) **Azmol Hasan Ratul** |
-| **Portfolio** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='22'>](https://ah-ratul.vercel.app/) **ah-ratul.vercel.app** |
-| **Facebook** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='22'>](https://www.facebook.com/ah.ratul.7) **ah.ratul.7** |
+| **GitHub** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='22'>](https://github.com/AH-Ratul) |
+| **LinkedIn** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='22'>](https://www.linkedin.com/in/azmol-hasan-ratul-909927308/) |
+| **Portfolio** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='22'>](https://ah-ratul.vercel.app/) |
+| **Facebook** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='22'>](https://www.facebook.com/ah.ratul.7) |
 
 ---
 
