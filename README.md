@@ -1,21 +1,41 @@
-![Frontend Developer](https://media.licdn.com/dms/image/v2/D4E16AQGc2zD9t8vOHQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715944518837?e=1764201600&v=beta&t=N9kQkgF56DHcuSnBmkwpfipQMx4ToKDhR88_j13r2tk)
+#  Md. Azmol Hasan Ratul 
+## **Frontend Developer**
 
-## Md. Azmol Hasan Ratul
-#### Frontend Developer
+### **About Me**
 
-Passionate Frontend Developer experienced in React JS and Next JS (SSR, SSG, CSR). I build responsive, performant, and user-friendly experiences by meticulously leveraging my strong foundation in modern web technologies.
+I am a **Passionate and Pragmatic Frontend Developer** specializing in the modern React ecosystem, including **Next.js (SSR, SSG, CSR)**. My core mission is to engineer **responsive, high-performance, and pixel-perfect user experiences**. By meticulously leveraging a strong foundation in modern web technologies, I build **seamless, production-ready interfaces** that drive user engagement and business value.
 
-Skills: JavaScript | TypeScript | React JS | Next JS | TailwindCSS | Bootstrap | Redux | RTK Query | React Query | React Hook Form | Node JS | Express js | MongoDB | Mongoose | PostgreSQL | Prisma | Redis | Passport js.
+---
 
+### **Core Expertise & Technologies**
 
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Frontend Frameworks** | **React JS** \| **Next JS** (SSR/SSG/CSR) |
+| **State Management** | **Redux** \| **RTK Query** \| **React Query** |
+| **Styling & UI** | **TailwindCSS** \| **Bootstrap** |
+| **Languages** | **JavaScript** \| **TypeScript** |
+| **Backend & Database** | **Node JS** \| Express JS \| **MongoDB** \| Mongoose \| PostgreSQL \| Prisma \| Redis \| Passport JS |
+| **Form Management** | **React Hook Form** |
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AH-Ratul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/azmol-hasan-ratul-909927308//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ah.ratul.7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ah-ratul.vercel.app/)  
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AH-Ratul)](https://github.com/anuraghazra/github-readme-stats)
+### **Connect & Explore My Work**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AH-Ratul&show_icons=true)  
+| Platform | Link |
+| :--- | :--- |
+| **GitHub** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='20'>](https://github.com/AH-Ratul) AH-Ratul |
+| **LinkedIn** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='20'>](https://www.linkedin.com/in/azmol-hasan-ratul-909927308/) Azmol Hasan Ratul |
+| **Portfolio** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='20'>](https://ah-ratul.vercel.app/) ah-ratul.vercel.app |
+| **Facebook** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='20'>](https://www.facebook.com/ah.ratul.7) ah.ratul.7 |
 
-![GitHub metrics](https://metrics.lecoq.io/AH-Ratul)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AH-Ratul)  
+### **GitHub Activity Snapshot**
 
+| Metrics | Stats |
+| :--- | :--- |
+| **Top Languages** | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AH-Ratul)](https://github.com/anuraghazra/github-readme-stats) |
+| **Overall Stats** | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AH-Ratul&show_icons=true) |
+| **Commit History** | ![GitHub streak stats](https://streak-stats.demolab.com/?user=AH-Ratul) |
+| **Activity Metrics** | ![GitHub metrics](https://metrics.lecoq.io/AH-Ratul) |
