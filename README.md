@@ -1,3 +1,4 @@
+
 #  **Azmol Hasan Ratul** 
 ---
 
@@ -7,20 +8,24 @@ Passionate Frontend Developer experienced in React JS and Next JS (SSR, SSG, CSR
 
 ---
 
-### 🎯 **Current Overview & Future Goals**
+### 🎯 Current Overview & Future Goals
+
+<small>
 
 **🥅 Goal 🥅**
-* Become a Full Stack Developer
+- **Become a Full Stack Developer**
 
 **💼 I’m ready to work ->**
 
-#### 💻 Technical Expertise
+**💻 Technical Expertise**
 
-* **Languages:** **JavaScript**, **TypeScript**
-* **Front End:** **ReactJS**, **NextJS** (with **Next Auth**), **TailwindCSS**, **Redux Toolkit**, **React Query**, **React Hook Form**,  
-* **Back End:** **NodeJs**, **ExpressJs**, **Mongoose**, **Prisma**, **Passport js**
-* **Database:** **MongoDB**, **PostgreSQL**, **MySQL**
-* **Tools & Deployment:** **Git**, VS Code, Postman, **Vercel**
+- **Languages:** JavaScript, TypeScript
+- **Front End:** ReactJS, NextJS (with Next Auth), TailwindCSS, Redux Toolkit, React Query, React Hook Form
+- **Back End:** NodeJs, ExpressJs, Mongoose, Prisma, Passport js
+- **Database:** MongoDB, PostgreSQL, MySQL, Redis
+- **Tools & Deployment:** Git, VS Code, Postman, Vercel
+
+</small>
 
 ---
 
