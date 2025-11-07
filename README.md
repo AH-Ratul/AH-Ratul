@@ -5,7 +5,7 @@
 
 Passionate Frontend Developer experienced in React JS and Next JS (SSR, SSG, CSR). I build responsive, performant, and user-friendly experiences by meticulously leveraging my strong foundation in modern web technologies.
 
-Skills: JavaScript, TypeScript, React JS, Next JS, TailwindCSS, Bootstrap, Redux, RTK Query, React Query, React Hook Form, Node JS, Express js, MongoDB, Mongoose, PostgreSQL, Prisma, Redis, Passport js.
+Skills: JavaScript | TypeScript | React JS | Next JS | TailwindCSS | Bootstrap | Redux | RTK Query | React Query | React Hook Form | Node JS | Express js | MongoDB | Mongoose | PostgreSQL | Prisma | Redis | Passport js.
 
 
 
