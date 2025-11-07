@@ -1,18 +1,16 @@
 #  **Azmol Hasan Ratul** 
-##  **Frontend Developer | Full Stack Visionary**
-
 ---
 
-### 🌟 **About My Journey** 🌟
+### **About Me**
 
-I am a **Passionate and Pragmatic Frontend Engineer** specializing in the modern React ecosystem, including **Next.js (SSR, SSG, CSR)**. My mission isn't just coding; it's about crafting **responsive, lightning-fast, and pixel-perfect user experiences**. With a robust command over modern web technologies, I engineer **seamless, production-ready interfaces** that don't just function—they captivate users and deliver tangible business value. Let's build something exceptional together!
+Passionate Frontend Developer experienced in React JS and Next JS (SSR, SSG, CSR). My mission isn't just coding, it's about crafting **responsive, lightning-fast, and pixel-perfect user experiences**. With a robust command over modern web technologies, I engineer **seamless, production-ready interfaces** that don't just function—they captivate users and deliver tangible business value. Let's build something exceptional together!
 
 ---
 
 ### 🎯 **Current Overview & Future Goals**
 
-**🥅 Goals 🥅**
-* Become Full Stack Developer
+**🥅 Goal 🥅**
+* Become a Full Stack Developer
 
 **💼 I’m ready to work ->**
 
@@ -26,18 +24,17 @@ I am a **Passionate and Pragmatic Frontend Engineer** specializing in the modern
 
 ---
 
-### 🔗 **Let's Connect & Collaborate!** 🔗
+### 🔗 **Connect with me** 🔗
 
 | Platform | Engage Here |
 | :------- | :--- |
-| **GitHub** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='22'>](https://github.com/AH-Ratul) **AH-Ratul** |
 | **LinkedIn** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='22'>](https://www.linkedin.com/in/azmol-hasan-ratul-909927308/) **Azmol Hasan Ratul** |
 | **Portfolio** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='22'>](https://ah-ratul.vercel.app/) **ah-ratul.vercel.app** |
 | **Facebook** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='22'>](https://www.facebook.com/ah.ratul.7) **ah.ratul.7** |
 
 ---
 
-### 📈 **My GitHub Journey at a Glance** 📊
+###  **My Statistics**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AH-Ratul&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
