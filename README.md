@@ -13,7 +13,7 @@ Passionate Frontend Developer experienced in React JS and Next JS (SSR, SSG, CSR
 <small>
 
 **🥅 Goal 🥅**
-- **Become a Full Stack Developer**
+- **Become a Software Engineer**
 
 **💼 I’m ready to work ->**
 
